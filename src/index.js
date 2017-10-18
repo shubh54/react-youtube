@@ -6,7 +6,7 @@ import {VideoDetail} from "./components/video_detail";
 import YTSearch from "youtube-api-search";
 import _ from "lodash";
 
-const API_KEY = "AIzaSyCTLcUhakwMnzh3Ab4bPh6Tdj9l1ZzqNPU";
+const API_KEY = "YOUR_API_KEY";
 
 class App extends React.Component {
   constructor(props) {
